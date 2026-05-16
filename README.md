@@ -62,3 +62,8 @@ This project benchmarks and fine-tunes the Qwen2.5-1.5B language model for data 
 	- Train Qwen2.5-1.5B using `train.py` with the validated data.
 4. **Evaluate:**
 	- Benchmark the model using the scripts and compare results in `results/`.
+
+## Money Spent
+
+<img width="1556" height="930" alt="image" src="https://github.com/user-attachments/assets/4df86026-3e6a-4e79-8436-fb7716d53183" />
+
