@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project benchmarks and fine-tunes the Qwen2.5-1.5B language model for data science code generation using the DS-1000 dataset. The workflow includes:
+This project benchmarks and fine-tunes the Qwen2.5-1.5B language model for data science code generation using the [DS-1000 dataset](https://github.com/xlang-ai/DS-1000). The workflow includes:
 
 - **Few-shot Prompting:** Created tailored few-shot prompts for each data science framework in DS-1000 (pandas, numpy, matplotlib, sklearn, scipy, pytorch, tensorflow).
 - **Sample Generation:** Used LLMs to generate new coding samples for each framework, following the DS-1000 style.
